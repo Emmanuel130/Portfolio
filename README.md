@@ -2,8 +2,7 @@
 # Portfolio
 
 > My First Web App for Mobile
-
-Additional description about the project and its features.
+For the first milestone in the process of creating your portfolio website.
 
 ## Built With
 
