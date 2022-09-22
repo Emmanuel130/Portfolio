@@ -1,8 +1,9 @@
-
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # Portfolio
 
-> My First Web App for Mobile
-For the first milestone in the process of creating your portfolio website.
+> Description the project.
+
+My First Web App for Mobile For the first milestone in the process of creating my portfolio website.
 
 ## Built With
 
@@ -26,6 +27,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- Microversinc and its amazing staff
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
