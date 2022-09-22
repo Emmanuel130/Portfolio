@@ -9,7 +9,7 @@ For the first milestone in the process of creating your portfolio website.
 - HTML
 - CSS
 
-[Live Demo Link]()
+[Live Demo Link](https://emmanuel130.github.io/Portfolio/)
 
 ## Authors
 
