@@ -14,10 +14,10 @@ Additional description about the project and its features.
 
 ## Authors
 
-👤 **HAMMAS BIN SALEEM**
-- GitHub: [@HAMMAS-SALEEM](https://github.com/Emmanuel130)
-- Twitter: [@HammasSaleem4](https://twitter.com/YoungManiXO)
-- LinkedIn: [HAMMAS SALEEM](https://www.linkedin.com/in/YoungManiXO)
+👤 **Amanuel Detebo**
+- GitHub: [@Emmanuel130](https://github.com/Emmanuel130)
+- Twitter: [@YoungManiXO](https://twitter.com/YoungManiXO)
+- LinkedIn: [@YoungManiXO](https://www.linkedin.com/in/YoungManiXO)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
