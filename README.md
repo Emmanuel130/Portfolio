@@ -1,11 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# Portfolio
 
-> Description the project.
+# Mobile-portfolio-website
 
-MY-first-Portfolio
-For the first milestone in the process of creating your portfolio website
-
+In this project, I was able to build the header and headline sections of my personal portfolio(Mobile-view version). The goal of this project is to show the importance of using the mobile first approach when building a website
 
 My First Web App for Mobile For the first milestone in the process of creating my portfolio website.
 
